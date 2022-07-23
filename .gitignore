@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/[Aa]ssets/PolygonPrototype
+/[Aa]ssets/StreamingAssets
+/[Aa]ssets/TextMesh Pro
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
